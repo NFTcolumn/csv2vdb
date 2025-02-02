@@ -1,0 +1,4 @@
+pandas==2.1.4
+chromadb==0.4.22
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
